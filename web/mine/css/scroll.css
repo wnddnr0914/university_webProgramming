@@ -1,0 +1,38 @@
+
+
+html,body {
+    width:100%;
+    height:100%;
+    margin: 0;
+    text-align: center;
+}
+
+html {
+    scroll-snap-type:y mandatory;
+}
+
+.item {
+    width:100%;
+    height:100%;
+    
+    scroll-snap-align:center;
+    scroll-snap-stop:always;
+}
+
+.item:nth-child(1){
+    background:#cce5ff;
+}
+.item:nth-child(2){
+    background:#00D8FF;
+}
+.item:nth-child(3){
+    background:#66FFFF;
+}
+.item:nth-child(4){
+    background:
+    #3399FF;
+}
+.item:nth-child(5){
+    background: 
+    #666fff;
+}

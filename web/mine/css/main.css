@@ -1,0 +1,131 @@
+.profile{
+    width: 27%;
+    height: 45%;
+    display: flex;
+    align-items: center;
+
+    overflow: hidden;
+    border-radius: 50px;
+    vertical-align: middle;
+
+    margin: auto auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.profile> img{
+    width: 100%;
+    height: 100%;
+}
+.mmargin{
+    height: 23%;
+}
+p{
+    
+}
+.text{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-style: oblique;
+    text-align: center!important;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.profile2{
+    width: 27%;
+    height: 45%;
+    display: flex;
+    align-items: center;
+
+    overflow: hidden;
+    border-radius: 50px;
+    vertical-align: middle;
+    margin-left: 11%;
+
+    border: 1px solid black;
+    background-color: black;
+    float: left;
+}
+
+#item-2{
+    text-align-last: left;
+    
+}
+h3{
+    font-size: 21px;
+}
+p{
+    font-size: 17px;
+    font-style: italic
+}
+h2{
+
+    font-size: 40px;
+}
+.mmmargin{
+    width: 100%;
+    height: 10%;
+}
+#images{
+    margin-top: 10%;
+    width: 100%;
+    height: 20%;
+}
+#images> img{
+    width: 13%;
+    height: 100%;
+}
+#images> div{
+    width: 10%;
+    display: inline-block;
+}
+#item-3> p{
+    display: inline-block;
+}
+.love{
+    float: left;
+    margin-left: 28%;
+}
+.hate{
+    float: right;
+    margin-right: 28%;
+}
+.last-img{
+    background-color: black;
+    margin: 0 auto;
+    width: 60%;
+    height: 40%;
+    margin-bottom: 3%;
+}
+.con{
+    font-size: 30px;
+    margin: 5%;
+    
+}
+
+.img5{
+    background-color: black;
+    width: 25%;
+    height: 40%;
+    border-radius: 10%;
+    margin-left: 8%;
+    float: left;
+    
+}
+.list1{
+    display: inline-block;
+    float: left;
+    margin: 4%;
+}
+.list2{
+    display: inline-block;
+    float: left;
+    margin: 4%;
+}
+.list3{
+    display: inline-block;
+    float: left;
+    margin: 3%;
+}
